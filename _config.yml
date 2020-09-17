@@ -1,5 +1,19 @@
 layout: sidebar
 style: light
+#theme:
+# jekyll-theme-modernist
+# jekyll-theme-architect
+# jekyll-theme-dinky
+# jekyll-theme-hacker
+# jekyll-theme-leap-day
+# jekyll-theme-merlot
+# jekyll-theme-midnight
+# jekyll-theme-minima
+# jekyll-theme-minimal
+# jekyll-theme-modernist
+# jekyll-theme-slate
+# jekyll-theme-tactile
+# jekyll-theme-time-cayman
 
 plugins:
   - jekyll-octicons
@@ -28,14 +42,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: matthew-paley
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,7 +57,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: matthewpaley.github.io
   # youtube: your_username
 
 topics:

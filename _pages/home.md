@@ -32,5 +32,4 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-{% include sidebar.html %}
 {% include feature_row %}

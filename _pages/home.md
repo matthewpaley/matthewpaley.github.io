@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-Hi, I'm Matthew. I like using data to answer interesting questions. I'm a huge sports fan, and love working on sports analytics projects in my free time. Most of my work is done using R for analysis, machine learning, and data viz, but I'm experienced in SQL and dabble in Python as well. (And I love to learn new skills!) [Click here to view my resume] (https://matthewpaley.github.io/resume/)
+Hi, I'm Matthew. I like using data to answer interesting questions. I'm a huge sports fan, and love working on sports analytics projects in my free time. Most of my work is done using R for analysis, machine learning, and data viz, but I'm experienced in SQL and dabble in Python as well. (And I love to learn new skills!) [Click here to view my resume](https://matthewpaley.github.io/resume/)
 
 See below to learn more about some of the projects I've worked on.
 {% include feature_row %}

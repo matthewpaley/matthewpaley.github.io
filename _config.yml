@@ -63,7 +63,7 @@ author:
   bio    : "Data Scientist. Sports analytics nerd."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-linkedin"
       url: "https://linkedin.com/in/matthew-paley"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mjpaley10"
     - label: "Contact Me"
-      icon: "fab fa-fw envelope-o"
+      icon: "fas envelope-o"
       url: "mailto:matthewpaley@gmail.com"
 
 

@@ -121,7 +121,7 @@ Now that our features are ready to go, it's time to get plotting. We'll start by
 
 ![danceability](/assets/images/danceability.png)
 
-Right away we can see a trend. Music has been increasing in danceability pretty steadily each decade. I wonder what trends we can with the other features?
+Right away we can see a trend. Music has been increasing in danceability pretty steadily each decade. I wonder what trends we can uncover with the other features?
 
     # Energy
     g2 <- ggplot(tracklist, aes(x = energy, 
@@ -206,7 +206,7 @@ Right away we can see a trend. Music has been increasing in danceability pretty 
             axis.title.y = element_blank()) +
       geom_vline(aes(xintercept = median(tempo)), linetype = "dashed")
 
-Once all plots have been created, we can combine them together to get the full picture.
+Once all plots have been created, we can combine them together using `ggarrange` to get the full picture.
 
     # Combine all plots into one
     plot <- ggarrange(g1, g2, g3, g4, g5, g6, g7, g8, g9) 
@@ -226,16 +226,16 @@ Pretty cool! The biggest trends that jump out to me are an increase in danceabil
 Step 5: Interactive Plot
 ------------------------
 
-One really cool thing we can do with the help of the `plotly` package is create an interactive plot, where we can actually hear a preview of the songs. First, I selected the 250 most popular songs from our tracklist, just so the plot doesn't become too overwhelmed with data points. (<https://rpubs.com/mjpaley10/spotify>)
+One really cool thing we can do with the help of the `plotly` package is create an interactive plot, where we can actually hear a preview of the songs. View the plot [here](<https://rpubs.com/mjpaley10/spotify>).
+
+First, I selected the 250 most popular songs from our tracklist, just so the plot doesn't become too overwhelmed with data points. 
 
     # Select the 250 most popular songs in tracklist
     top250 <- tlist %>% 
       arrange(-track.popularity) %>% 
       slice_head(n=250)
 
-Next, I plotted the data with energy on the x-axis, and valence on the y-axis. These were variables found to have a moderate positive correlation in an earlier step. Also, I used the text aesthetic to create a text box that appears on hover. It shows the track name, artist, playlist name, and the length of the song in mm:ss formatting.
-
-Lastly, we're depending on the `track.preview_url` for our song previews. Unfortunately, Spotify doesn't provide them for every song, so I noted in the text aesthetic whether or not the preview was available.
+Next, I plotted the data with energy on the x-axis, and valence on the y-axis. These were variables found to have a moderate positive correlation in an earlier step. Also, I used the text aesthetic to create a text box that appears on hover. It shows the track name, artist, playlist name, and the length of the song in mm:ss formatting. We're depending on the `track.preview_url` for our song previews. Unfortunately, Spotify doesn't provide them for every song, so I noted in the text aesthetic whether or not the preview was available. 
 
     # Plot   
     p <- ggplot(top250,  aes(energy, 
@@ -257,7 +257,9 @@ Lastly, we're depending on the `track.preview_url` for our song previews. Unfort
         title = "Data You Can Hear",
         subtitle = "Click a point to hear the song!") + 
       theme(legend.position = "none")
-
+      
+Next, we'll add a title and subtitle to the plot.
+      
     p1 <- ggplotly(p, tooltip="text") %>%
       layout(title = list(text = paste0('Data You Can Hear',
                                         '<br>',
@@ -267,6 +269,8 @@ Lastly, we're depending on the `track.preview_url` for our song previews. Unfort
              x = .47))
 
     p1$x$data[[1]]$customdata <- top250$track.preview_url
+
+Lastly, we add in the song preview functionality, where you click on the data point on the plot, and it opens the song preview in a new window.
 
     p2 <- onRender(p1, "
                    function(el, x) {

@@ -1,6 +1,14 @@
 
-Music Exploration Using SpotifyR
---------------------------------
+---
+title: "Music Exploration Using SpotifyR"
+date: 2021-06-27
+categories:
+  - blog
+tags:
+  - R
+  - data viz
+---
+
 
 In this blog I will demonstrate how I used the R programming language and the `spotifyr` package to compare music across the decades. Special thanks to Charlie Thompson for creating [spotifyr](https://www.rcharlie.com/spotifyr/).
 
@@ -269,3 +277,5 @@ Lastly, we're depending on the `track.preview_url` for our song previews. Unfort
                    });
                    }
                    ")
+
+As you can see, the `spotifyr` package unlocks a ton of info about music that you wouldn't know about otherwise. I had a lot of fun diving into the data and comparing music across the decades. A few things I'd like to explore further in the future is using K-means clustering to group similar artists together, and using NLP on different song lyrics to see how accurate the Spotify track features really are.

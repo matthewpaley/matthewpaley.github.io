@@ -18,11 +18,11 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "Project 2"
-    title: "Project 2"
-    excerpt: "Quick Summary of Project 3."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/danceability.png
+    alt: "Spotify Analysis"
+    title: "Spotify Analysis"
+    excerpt: "Analyzing trends in music using spotifyR."
+    url: "https://matthewpaley.github.io/Music-Exploration-Using-SpotifyR/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png

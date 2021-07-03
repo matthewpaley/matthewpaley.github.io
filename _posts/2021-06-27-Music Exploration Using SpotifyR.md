@@ -1,8 +1,8 @@
 ---
 title: "Music Exploration Using SpotifyR"
 date: 2021-06-27
-categories:
-  - blog
+# categories:
+#  - blog
 tags:
   - R
   - data viz

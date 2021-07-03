@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mjpaley10"
     - label: "Contact Me"
-      icon: "fab fa-envelope-o"
+      icon: "fa-envelope-o"
       url: "mailto:matthewpaley@gmail.com"
 
 

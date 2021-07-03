@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: "About Me"
 permalink: /
 # header:
 #  overlay_color: "#5e616c"

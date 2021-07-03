@@ -1,14 +1,14 @@
 ---
 layout: splash
 permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/bio-image.jpg
-  actions:
-    - label: "<i class='fas fa-envelope-o'></i> Contact Me"
-      url: "mailto:matthewpaley@gmail.com"
-excerpt: >
-  Hi, I'm Matthew. I'm a data scientist that likes sports analytics.<br />
+# header:
+#  overlay_color: "#5e616c"
+#  overlay_image: /assets/images/bio-image.jpg
+#  actions:
+#    - label: "<i class='fas fa-envelope-o'></i> Contact Me"
+#      url: "mailto:matthewpaley@gmail.com"
+# excerpt: >
+#  Hi, I'm Matthew. I'm a data scientist that likes sports analytics.<br />
 feature_row:
   - image_path: /assets/images/projects.png
     alt: "Projects"

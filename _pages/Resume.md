@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /resume/
+excerpt: 'Resume'
 header:
   overlay_image: /images/cleveland.jpg
   overlay_filter: 0.5

@@ -45,6 +45,7 @@ I'm currently working at DHL Supply Chain in Columbus, Ohio. I'm part of a small
 
 You can view my resume [here](https://matthewpaley.github.io/resume/), and check about my different projects on my [projects page](https://matthewpaley.github.io/projects/). 
 
-**Here are a few projects that I'm proud of**
+---
 
-{% include feature_row %}
+#**Here are a few projects that I'm proud of**
+##{% include feature_row %}

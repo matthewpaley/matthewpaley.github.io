@@ -2,7 +2,7 @@
 title: 'Matthew Paley'
 layout: single
 author_profile: true
-excerpt: 'Learn about me, my skills, and some of my projects.'
+excerpt: 'Learn about me, my skills, and some of the projects I've done.'
 header:
   overlay_image: /images/cleveland.jpg
   overlay_filter: 0.5
@@ -35,15 +35,16 @@ feature_row:
 
 # About me
 
-I grew up in Cleveland, Ohio. I graduated from The Ohio State University in 2018, where I majored in Management Information Systems and minored in business analytics. In my free time, I combine my passion for sports with what I learned in school and work on sports analytics projects. 
+I grew up in Cleveland, Ohio. I graduated from The Ohio State University in 2018, where I majored in Management Information Systems and minored in business analytics. In my free time, I combine my passion for sports with the technical skills I've developed and work on sports analytics projects. 
 
 ---
 
-I'm currently working at DHL Supply Chain in Columbus, Ohio. I'm part of a small team showing the value that data science can bring to an organization. 
+I work at DHL Supply Chain in Columbus, Ohio. I'm part of a small team showing the value that data science can bring to an organization. 
 
 ---
 
-You can view my resume [here](https://matthewpaley.github.io/resume/), and check about my different projects on my [projects page](https://matthewpaley.github.io/projects/). 
+* You can view my resume [here](https://matthewpaley.github.io/resume/)
+* Check out my different projects on the [projects page](https://matthewpaley.github.io/projects/). 
 
 ---
 

@@ -10,7 +10,7 @@ header:
 
 ## Personal Projects
 
-- [**Spotify Analysis**](https://github.com/matthewpaley/Spotify): Comparing music across decades with `spotifyr`. See blog post [here](https://matthewpaley.github.io/spotify/).
+- [**Spotify Analysis**](https://github.com/matthewpaley/Spotify): Comparing music across decades with `spotifyr`. See blog post [here](https://matthewpaley.github.io/Spotify/).
 - [**Browns QB Rankings**](https://github.com/matthewpaley/Sports-Analytics/blob/master/NFL%20Miscellaneous/Browns%20QBs.R): Implemented mixed effects model in R to identify which Browns quarterback is the best since 1999.
 - [**NFL Postgame Template**](https://github.com/matthewpaley/Sports-Analytics/blob/master/NFL%20Miscellaneous/postgame%20template.R): Created template to show relevant NFL game statistics and win probability charts.
 - **2019 NFL Big Data Bowl**: Predicted how many rushing yards a running back would gain on a given run play.

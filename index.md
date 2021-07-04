@@ -1,7 +1,6 @@
 ---
 title: 'Matthew Paley'
 layout: single
-author_profile: true
 excerpt: 'Data science and sports analytics.'
 header:
   overlay_image: /images/cleveland.jpg
@@ -16,21 +15,21 @@ feature_row:
     excerpt: "Quick summary of Project 1"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Read more"
   - image_path: /assets/images/danceability.png
     alt: "Spotify Analysis"
     title: "Spotify Analysis"
     excerpt: "Analyzing trends in music using spotifyR."
-    url: "https://matthewpaley.github.io/Music-Exploration-Using-SpotifyR/"
+    url: "https://matthewpaley.github.io/Spotify/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Read more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "Project 3"
     title: "Project 3"
     excerpt: "Quick summary of Project 3."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Read more"      
 ---
 
 # About me

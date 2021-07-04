@@ -47,5 +47,7 @@ You can view my resume [here](https://matthewpaley.github.io/resume/), and check
 
 ---
 
-#**Here are a few projects that I'm proud of**
-##{% include feature_row %}
+<!---
+**Here are a few projects that I'm proud of**
+{% include feature_row %}
+-->

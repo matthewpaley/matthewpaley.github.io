@@ -9,27 +9,27 @@ header:
     - label: "<i class='fas fa-envelope'></i> Contact Me"
       url: "mailto:matthewpaley@gmail.com"
 feature_row:
-  - image_path: /assets/images/projects.png
-    alt: "Project"
-    title: "Project 1"
-    excerpt: "Quick summary of Project 1"
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Read more"
-  - image_path: /assets/images/danceability.png
+  - image_path: /images/NBA.png
+    alt: "NBA Hackathon"
+    title: "2017 NBA Hackathon"
+    excerpt: "Developed a new rule for free throw shooting"
+    #url: "/docs/configuration/"
+    #btn_class: "btn--primary"
+    #btn_label: "Read more"
+  - image_path: /images/danceability.png
     alt: "Spotify Analysis"
     title: "Spotify Analysis"
     excerpt: "Analyzing trends in music using spotifyR."
     url: "https://matthewpaley.github.io/Spotify/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "Project 3"
-    title: "Project 3"
-    excerpt: "Quick summary of Project 3."
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Read more"      
+  - image_path: /images/march-madness.png
+    alt: "March Madness"
+    title: "NCAA March Madness"
+    excerpt: "Predicting the winner of NCAA March Madness"
+    #url: "/docs/license/"
+    #btn_class: "btn--primary"
+    #btn_label: "Read more"      
 ---
 
 # About me

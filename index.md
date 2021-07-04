@@ -1,6 +1,7 @@
 ---
 title: 'Matthew Paley'
 layout: single
+author_profile: true
 excerpt: 'Data science and sports analytics.'
 header:
   overlay_image: /images/cleveland.jpg

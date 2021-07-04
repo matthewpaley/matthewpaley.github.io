@@ -1,14 +1,11 @@
 ---
-
 title: "Projects"
 layout: single
 permalink: /projects/
-excerpt: 'See below for a look into some of the different projects I've 
-worked on. Projects will be linked to their relevant Github repos if available, and some will have associated blog posts.'
+excerpt: "See below for a look into some of the different projects I've worked on."
 header:
-  overlay_image: /images/cleveland.jpg
-  overlay_filter: 0.5
-  
+    overlay_image: /images/cleveland.jpg
+    overlay_filter: 0.5
 ---
 
 ## Personal Projects

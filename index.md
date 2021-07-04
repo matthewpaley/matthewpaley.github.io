@@ -13,7 +13,7 @@ feature_row:
   - image_path: /images/NBA.png
     alt: "NBA Hackathon"
     title: "2017 NBA Hackathon"
-    excerpt: "Developed a new rule for free throw shooting"
+    excerpt: "Creating a new rule in the NBA"
     #url: "/docs/configuration/"
     #btn_class: "btn--primary"
     #btn_label: "Read more"
@@ -27,7 +27,7 @@ feature_row:
   - image_path: /images/march-madness.png
     alt: "March Madness"
     title: "NCAA March Madness"
-    excerpt: "Predicting the winner of NCAA March Madness"
+    excerpt: "Using machine learning to predict the winner of NCAA March Madness"
     #url: "/docs/license/"
     #btn_class: "btn--primary"
     #btn_label: "Read more"      
@@ -35,14 +35,16 @@ feature_row:
 
 # About me
 
+I grew up in Cleveland, Ohio. I graduated from The Ohio State University in 2018, where I majored in Management Information Systems and minored in business analytics. In my free time, I combine my passion for sports with what I learned in school and work on sports analytics projects. 
+
+---
+
 I'm currently working at DHL Supply Chain in Columbus, Ohio. I'm part of a small team showing the value that data science can bring to an organization. 
 
 ---
 
-I grew up in Cleveland, Ohio as a huge Browns fan. I graduated from The Ohio State University in 2018, where I majored in Management Information Systems and minored in business analytics. In my free time, I combine my passion for sports with what I learned in school and work on sports analytics projects. 
+You can view my resume [here](https://matthewpaley.github.io/resume/), and check about my different projects on my [projects page](https://matthewpaley.github.io/projects/). 
 
----
-
-You can view my resume [here](https://matthewpaley.github.io/resume/), and check about my different projects on my [projects page](https://matthewpaley.github.io/projects/). Here are a few projects that I'm proud of.
+**Here are a few projects that I'm proud of**
 
 {% include feature_row %}

@@ -2,7 +2,7 @@
 title: 'Matthew Paley'
 layout: single
 author_profile: true
-excerpt: 'Welcome to my site. Please take some time to learn about me, my skills, and some of the work I've done.'
+excerpt: 'Learn about me, my skills, and some of my projects.'
 header:
   overlay_image: /images/cleveland.jpg
   overlay_filter: 0.5

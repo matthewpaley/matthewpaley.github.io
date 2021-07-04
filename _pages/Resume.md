@@ -6,4 +6,4 @@ header:
   overlay_filter: 0.5
 ---
 
-![Matthew Paley Resume](/assets/images/Matthew%20Paley%20Resume.jpg)
+![Matthew Paley Resume](/assets/images/resume-portfolio.png)

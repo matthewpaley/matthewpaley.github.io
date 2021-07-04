@@ -17,7 +17,6 @@ header:
 - [**2019 NCAA March Madness**](): Trained Light GBM model to predict the winner of every potential game in the March Madness tournament.
 - [**Browns QB Rankings**](https://github.com/matthewpaley/Sports-Analytics/blob/master/NFL%20Miscellaneous/Browns%20QBs.R): Implemented mixed effects model in R to identify which Browns quarterback is the best since 1999. See blog post [here]().
 - [**NFL Postgame Template**](https://github.com/matthewpaley/Sports-Analytics/blob/master/NFL%20Miscellaneous/postgame%20template.R): Created template to show relevant NFL game statistics and win probability charts.
-- More projects are listed on my [**Github**](https://github.com/matthewpaley/). Bear with me while I get this site updated 😅
 ---
 
 ## Work Projects

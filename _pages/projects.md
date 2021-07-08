@@ -15,9 +15,9 @@ header:
 - [**NFL Postgame Template**](https://github.com/matthewpaley/Sports-Analytics/blob/master/NFL%20Miscellaneous/postgame%20template.R): Created template to show relevant NFL game statistics and win probability charts.
 - [**2017 NBA Hackathon**](https://github.com/matthewpaley/Sports-Analytics/blob/master/New%20Free%20Throw%20Rules.R): Analyzed 20 years of NBA play-by-play data to invent a new rule for shooting free throws.
 - [**NBA Game Scraper**](https://github.com/matthewpaley/Sports-Analytics/blob/master/NBA%20Betting/Game%20Scraper.R): Built web scraper to pull NBA schedule data from basketball-reference.
-- **2019 NFL Big Data Bowl**: Predicted how many rushing yards a running back would gain on a given run play.
-- **2019 NCAA March Madness**: Trained Light GBM model to predict the winner of every potential game in the March Madness tournament.
-- **2018 NFL Big Data Bowl**: Trained classification model to label receiver routes.
+- [**2021 NFL Big Data Bowl**](https://github.com/matthewpaley/Sports-Analytics/blob/master/2021%20NCAA%20Model.R): Trained XGBoost model to predict how many rushing yards a RB would gain on a given run play.
+- [**2021 NCAA March Madness**](https://github.com/matthewpaley/Sports-Analytics/blob/master/BDB%20XGBoost.R): Trained bagged FDA model using `caret` package in R to predict the winner of every potential matchup in the March Madness tournament.
+- [**2019 NFL Big Data Bowl**](https://github.com/matthewpaley/Sports-Analytics/blob/master/Big%20Data%20Bowl.R): Trained K-Nearest Neighbors model to label receiver routes.
 - More projects are listed on my [**Github**](https://github.com/matthewpaley/). Bear with me while I get this site updated 😅
 
 ---

@@ -35,11 +35,15 @@ feature_row:
 
 # About me
 
-I grew up in Cleveland, Ohio. I graduated from The Ohio State University in 2018, where I majored in Management Information Systems and minored in business analytics. In my free time, I combine my passion for sports with the technical skills I've developed and work on sports analytics projects. 
+I grew up in Cleveland, Ohio. I graduated from The Ohio State University in 2018, where I majored in Management Information Systems and minored in Business Analytics. In my free time, I combine my passion for sports with the technical skills I've developed and work on sports analytics projects. 
 
 ---
 
-I work at DHL Supply Chain in Columbus, Ohio. I'm part of a small team showing the value that data science can bring to an organization. 
+I currently work as a Data Scientist for Greenhouse Software. I'm part of a small team of data scientists supporting the product org with analytics and foundational modeling. My most recent projects have involved using NLP and large language modeling in conjunction with job descriptions.
+
+---
+
+Additionally, I'm working on a really cool product called [SportsmindAI](sportsmindai.com). Sportsmind is your personal fantasy football assistant, using AI to help win your league. It's still in beta, but I think it's pretty cool.
 
 ---
 
